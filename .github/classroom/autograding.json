@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Ghost_Shell",
+      "setup": "<img src=x onerror=alert(\"Ghost_Shell\")><img src=x onerror=alert(document.domain)>",
+      "run": "<img src=x onerror=alert(\"Ghost_Shell\")><img src=x onerror=alert(document.domain)>",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
